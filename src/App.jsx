@@ -9,7 +9,7 @@ import { useState } from 'react';
 import { BrowserRouter , Routes,Route } from 'react-router-dom';
 import Hero from './components/Hero';
 import Footer from './components/Footer';
-import Addjob from './pages/Addjob';
+import Addjob from './pages/AddJob';
 function App() {
   const[searchTerm,setSearchTerm]=useState("");
 
