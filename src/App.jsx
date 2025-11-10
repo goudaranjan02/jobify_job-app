@@ -1,8 +1,8 @@
 import React from 'react'
 import './App.css'
 import Navbar from './components/Navbar';
-import Signup from './pages/signup';
-import Login from './pages/login';
+import Signup from './pages/Signup';
+import Login from './pages/Login';
 import Job from './pages/job'
 import JobDetails from './pages/jobDetails';
 import { useState } from 'react';
